@@ -57,7 +57,7 @@ Stock-Market-Performance-Trading-Analytics/
 │   └── Dashboard-Page-2.png
 │
 └── Documentation/
-    └── Stock_Market_Portfolio_GitHub_Documentation_Final.pdf
+    └── Stock_Market.pdf
 ```
 
 ---
